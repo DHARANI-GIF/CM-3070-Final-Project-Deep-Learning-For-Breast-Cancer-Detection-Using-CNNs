@@ -1,5 +1,4 @@
 # CM-3070-Final-Project-Deep-Learning-For-Breast-Cancer-Detection-Using-CNNs
-# CM-3070-Final-Project: Deep Learning for Breast Cancer Detection Using CNNs
 
 ## Overview of prototype application
 
