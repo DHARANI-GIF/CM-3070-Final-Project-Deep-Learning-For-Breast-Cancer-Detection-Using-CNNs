@@ -97,7 +97,7 @@ The project includes the following models:
 
 **CM_3070_Multi_Class.ipynb**: CNN built from scratch for 4-class classification.
 
-**CM_3070_Binary(Benign_vs_Malignant)**: CNN built from scratch for benign vs malignant classification.
+**CM_3070_Binary(Benign_vs_Malignant).ipynb**: CNN built from scratch for benign vs malignant classification.
 
 **CM_3070_Binary_VGG16.ipynb**: VGG16 model with feature extraction for 2-class classification.
 
