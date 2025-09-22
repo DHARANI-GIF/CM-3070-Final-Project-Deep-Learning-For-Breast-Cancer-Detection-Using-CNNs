@@ -31,7 +31,6 @@ To run this project, make sure you have the following installed:
 - TensorFlow 2.x
 - Streamlit 1.x
 - FPDF (for PDF report generation)
-- Other Python dependencies listed in `requirements.txt`
 
 ### Clone the Repository
 
